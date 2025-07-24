@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rsgqTko2tA=",
+  "success": true,
+  "projectFilePath": "/home/tyayers/projects/aintegration/appint-dotnet-sample/appint-dotnet-sample.csproj",
+  "expectedPackageFiles": [
+    "/home/tyayers/.nuget/packages/cloudnative.cloudevents/2.8.0/cloudnative.cloudevents.2.8.0.nupkg.sha512",
+    "/home/tyayers/.nuget/packages/cloudnative.cloudevents.aspnetcore/2.8.0/cloudnative.cloudevents.aspnetcore.2.8.0.nupkg.sha512",
+    "/home/tyayers/.nuget/packages/cloudnative.cloudevents.systemtextjson/2.8.0/cloudnative.cloudevents.systemtextjson.2.8.0.nupkg.sha512",
+    "/home/tyayers/.nuget/packages/google.cloud.functions.framework/3.0.1/google.cloud.functions.framework.3.0.1.nupkg.sha512",
+    "/home/tyayers/.nuget/packages/google.cloud.functions.hosting/3.0.1/google.cloud.functions.hosting.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
